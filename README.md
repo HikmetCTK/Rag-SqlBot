@@ -1,6 +1,6 @@
 # Simple Rag-SqlBot
-Sql Chatbot for answering your questions based on sql pdf file
-
+Sql Assistan for answering your questions based on sql pdf file
+sql file is downloaded from https://www.alisahan.com/sql-kitap/
 ![sqlbottest](https://github.com/user-attachments/assets/5621cc68-7644-4fa1-b925-3440f724d819)
 
 
