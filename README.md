@@ -1,5 +1,5 @@
 # Simple Rag-SqlBot
-Simple Rag Sql chatbot based on pdf file
+Sql Chatbot for answering sql questions based on sql pdf file
 
 ![sqlbottest](https://github.com/user-attachments/assets/5621cc68-7644-4fa1-b925-3440f724d819)
 
