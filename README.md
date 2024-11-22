@@ -1,7 +1,8 @@
 # Simple Rag-SqlBot
 Simple Rag Sql chatbot based on pdf file
 
-![sqlbot_test](https://github.com/user-attachments/assets/3686ba2d-d84e-48ce-99bb-0669e5839f9f)
+![sqlbottest](https://github.com/user-attachments/assets/5621cc68-7644-4fa1-b925-3440f724d819)
+
 
 SQL Chatbot is an AI-powered chat application that can answer your questions on SQL. It aims to help users learn, understand and improve their SQL knowledge. Chatbot has the ability to extract information from PDF files and present this information in a way that is relevant to users' questions.
 
