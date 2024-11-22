@@ -1,7 +1,6 @@
 from dotenv import load_dotenv   
 from langchain_core.prompts import ChatPromptTemplate
 import google.generativeai as genai
-from langchain_chroma import Chroma
 from langchain_community.vectorstores import FAISS
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 import os
