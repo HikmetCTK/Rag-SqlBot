@@ -1,4 +1,4 @@
-# Rag-SqlBot
+# Simple Rag-SqlBot
 Simple Rag Sql chatbot based on pdf file
 
 ![sqlbot_](https://github.com/user-attachments/assets/eb9cd40a-1beb-48d9-b3e5-0d02d500aa9d)
